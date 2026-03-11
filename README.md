@@ -102,8 +102,8 @@
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  <a href="https://buymeachai.ezee.li/stormbreaker08" target="_blank" rel="noopener noreferrer">
+    <img src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png" alt="Buy Me A Chai" width="200"></a>
   </a>
 </p>
 
