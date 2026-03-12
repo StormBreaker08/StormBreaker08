@@ -5,7 +5,7 @@
   Hi, I'm <strong>Kishan N Kishore</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Java • </h3>
+<h3>Full Stack Developer | MERN • Python • Java </h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
@@ -56,14 +56,14 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript,java" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,fastapi" />
 </td>
 
 
@@ -72,14 +72,14 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,postgresql,supabase" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,vercel,notion,docker" />
 </td>
 </tr>
 </table>
@@ -95,6 +95,14 @@
 <div align="center">
   <br/>
   <img src="https://streak-stats.demolab.com?user=StormBreaker08&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=StormBreaker08&theme=merko&hide_border=true" 
+    width="700"
+    alt="Contribution Graph"
+  />
 </div>
 
 ---
